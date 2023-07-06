@@ -11,7 +11,7 @@
  pkg install python
  pip install mechanize requests bs4
  pkg install git
- git clone https://github.com/mrogggy/H-crack
+ git clone https://github.com/hridoyXhasan/H-crack
  cd H-crack
  python3 H-crack.py
 
