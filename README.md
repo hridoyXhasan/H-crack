@@ -13,7 +13,7 @@
 • pkg install git
 • git clone https://github.com/mrogggy/H-crack
 • cd H-crack
-• python3 H-crack
+• python3 H-crack.py
 
 ```
 ```
