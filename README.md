@@ -7,20 +7,20 @@
 
 *** INSTALL TOOL ON TERMUX
 ```
-• pkg update -y && pkg upgrade -y
-• pkg install python
-• pip install mechanize requests bs4
-• pkg install git
-• git clone https://github.com/mrogggy/H-crack
-• cd H-crack
-• python3 H-crack.py
+ pkg update -y && pkg upgrade -y
+ pkg install python
+ pip install mechanize requests bs4
+ pkg install git
+ git clone https://github.com/mrogggy/H-crack
+ cd H-crack
+ python3 H-crack.py
 
 ```
 ```
 **** RUN SCRIPT
-• cd H-crack
-• git pull
-• python3 H-crack.py
+ cd H-crack
+ git pull
+ python3 H-crack.py
 
 ```
 
